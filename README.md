@@ -1,4 +1,4 @@
-# Hi 👋, I'm John Olatunji
+# Hi 👋, I'm Olatunji Shogo John
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=John%20Olatunji&fontSize=40&fontColor=ffffff"/>
