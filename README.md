@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Junior+Full-Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+PHP+%7C+Python;Building+Real+Business+Systems;Always+Learning+New+Technologies"/>
 </p>
 
 ## 👨‍💻 About Me
@@ -28,18 +28,17 @@
 ### 🛒 CITY TECH STORE
 Online store for a phone, electronics and solar shop in Nigeria, with Paystack checkout and an admin area.
 **Stack:** PHP, MySQL, HTML, CSS, JavaScript
-🔗 [Live site / demo](ADD-YOUR-LINK-HERE)
+🔗 [Live site](ADD-YOUR-LINK-HERE) · 📸 [Screenshots and details](https://github.com/johntech-hub/citytechstore-showcase)
 
 ### 🕒 Staff Attendance System
 Attendance system with a fingerprint and touch-screen kiosk, online portal, reports and late deductions.
 **Stack:** Python, FastAPI, SQLite/MySQL, Windows kiosk app
-🔗 [Live portal / demo](ADD-YOUR-LINK-HERE)
+🔗 [Demo video](ADD-YOUR-LINK-HERE) · 📸 [Screenshots and details](https://github.com/johntech-hub/staff-attendance-showcase)
 
 ### 🧾 CTS-POS Management System
 Offline-first point-of-sale system with receipts, IMEI/warranty tracking, reports and multi-branch sync.
 **Stack:** Python 3.13, PySide6 (Qt), SQLite, FastAPI, SQLAlchemy, MySQL/MariaDB, ESC/POS printing, cPanel hosting.
-🔗 [Live portal / demo](ADD-YOUR-LINK-HERE)
-🔗 [Live portal / demo](ADD-YOUR-LINK-HERE)
+📸 [Screenshots and details](https://github.com/johntech-hub/cts-pos-showcase)
 
 ### 🧮 Calculator App
 Calculator built with HTML, CSS, and JavaScript.
