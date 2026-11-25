@@ -19,19 +19,20 @@
 ## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,express,mongodb,git,github,vscode,wordpress"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,express,mongodb,git,github,vscode,wordpress,python"/>
 </p>
 
 ## 🚀 Featured Projects
 
-### 🛒 J-Commerce
+### 🛒 CITY TECH STORE
 Modern MERN e-commerce application.
+
 
 ### 🏠 Home Rentals Application
 Full-stack rental platform with JWT authentication, property CRUD, and search.
 
-### 🍽️ Restaurant Website
-Responsive website built with HTML, CSS, and JavaScript.
+### 🍽️ CTS-POS Management System
+Python 3.13, PySide6 (Qt), SQLite, FastAPI, SQLAlchemy, MySQL/MariaDB, ESC/POS printing, cPanel hosting.
 
 ### 🧮 Calculator App
 Calculator built with HTML, CSS, and JavaScript.
