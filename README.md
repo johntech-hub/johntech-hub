@@ -10,29 +10,36 @@
 
 ## 👨‍💻 About Me
 
-- 💻 Junior Full-Stack Developer from Nigeria 🇳🇬
-- ⚛️ React.js • Node.js • Express.js • MongoDB • TypeScript • Python
+- 💻 Full-Stack Developer from Nigeria 🇳🇬
+- ⚛️ React • React Native • Node.js • Express • MongoDB • TypeScript • Python • PHP • MySQL
+- 🛠️ I build and ship real business systems: an online store, a point-of-sale app and a staff attendance system
 - 🎨 Graphic Designer & Video Editor
-- 🚀 Open to internships, junior developer roles, and freelance opportunities
-- 🌱 Currently improving my backend development and software engineering skills
+- 🚀 Open to freelance projects and full-time developer roles
+- 🌱 Currently strengthening my backend and software engineering skills
 
 ## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,express,mongodb,git,github,vscode,wordpress,python"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,express,mongodb,php,mysql,git,github,vscode,wordpress,python"/>
 </p>
 
 ## 🚀 Featured Projects
 
 ### 🛒 CITY TECH STORE
-Modern MERN e-commerce application.
+Online store for a phone, electronics and solar shop in Nigeria, with Paystack checkout and an admin area.
+**Stack:** PHP, MySQL, HTML, CSS, JavaScript
+🔗 [Live site / demo](ADD-YOUR-LINK-HERE)
 
+### 🕒 Staff Attendance System
+Attendance system with a fingerprint and touch-screen kiosk, online portal, reports and late deductions.
+**Stack:** Python, FastAPI, SQLite/MySQL, Windows kiosk app
+🔗 [Live portal / demo](ADD-YOUR-LINK-HERE)
 
-### 🏠 Home Rentals Application
-Full-stack rental platform with JWT authentication, property CRUD, and search.
-
-### 🍽️ CTS-POS Management System
-Python 3.13, PySide6 (Qt), SQLite, FastAPI, SQLAlchemy, MySQL/MariaDB, ESC/POS printing, cPanel hosting.
+### 🧾 CTS-POS Management System
+Offline-first point-of-sale system with receipts, IMEI/warranty tracking, reports and multi-branch sync.
+**Stack:** Python 3.13, PySide6 (Qt), SQLite, FastAPI, SQLAlchemy, MySQL/MariaDB, ESC/POS printing, cPanel hosting.
+🔗 [Live portal / demo](ADD-YOUR-LINK-HERE)
+🔗 [Live portal / demo](ADD-YOUR-LINK-HERE)
 
 ### 🧮 Calculator App
 Calculator built with HTML, CSS, and JavaScript.
