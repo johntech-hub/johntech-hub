@@ -11,7 +11,7 @@
 ## 👨‍💻 About Me
 
 - 💻 Junior Full-Stack Developer from Nigeria 🇳🇬
-- ⚛️ React.js • Node.js • Express.js • MongoDB • TypeScript
+- ⚛️ React.js • Node.js • Express.js • MongoDB • TypeScript • Python
 - 🎨 Graphic Designer & Video Editor
 - 🚀 Open to internships, junior developer roles, and freelance opportunities
 - 🌱 Currently improving my backend development and software engineering skills
