@@ -28,12 +28,13 @@
 ### 🛒 CITY TECH STORE
 Online store for a phone, electronics and solar shop in Nigeria, with Paystack checkout and an admin area.
 **Stack:** PHP, MySQL, HTML, CSS, JavaScript
-🔗 [Live site](ADD-YOUR-LINK-HERE) · 📸 [Screenshots and details](https://github.com/johntech-hub/citytechstore-showcase)
+🔗 [Live site](https://citytechstore.org/) · 📸 [Screenshots and details](https://github.com/johntech-hub/citytechstore-showcase)
 
 ### 🕒 Staff Attendance System
 Attendance system with a fingerprint and touch-screen kiosk, online portal, reports and late deductions.
 **Stack:** Python, FastAPI, SQLite/MySQL, Windows kiosk app
-🔗 [Demo video](ADD-YOUR-LINK-HERE) · 📸 [Screenshots and details](https://github.com/johntech-hub/staff-attendance-showcase)
+🔗 [Demo video](https://youtube.com/shorts/gGcviOCipI0?feature=share) · 📸 [Screenshots and details](https://github.com/johntech-hub/staff-attendance-showcase)
+[Portal live site](https://youtube.com/shorts/gGcviOCipI0?feature=share) 
 
 ### 🧾 CTS-POS Management System
 Offline-first point-of-sale system with receipts, IMEI/warranty tracking, reports and multi-branch sync.
